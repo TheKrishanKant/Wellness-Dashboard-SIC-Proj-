@@ -1,0 +1,6 @@
+{
+  "name": "VitalPulse - AI Wellness & Activity Dashboard",
+  "description": "Personalized health and wellness dashboard with activity logging, smart nutrition needs, circadian sleep recommendations, and customizable overview widgets powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
